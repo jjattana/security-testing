@@ -1,0 +1,2 @@
+linters:
+  yaml_prettier: false
